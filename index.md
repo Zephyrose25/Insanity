@@ -1,14 +1,14 @@
-## Integral Internet Insanity
+# Integral Internet Insanity
 Welcome to the last bastion of madness, mortal soul.
 
 
-### Library
+# Library
 If you want to read, prepare your mind for the word.
 
 ## Secrets
 Read about things which are hidden from public view.
 
-# The State
+### The State
 
 - Study of Assassination
 
