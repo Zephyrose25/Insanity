@@ -9,5 +9,7 @@ If you want to read, prepare your mind for the word.
 Read about things which are hidden from public view.
 
 # The State
+
 - Study of Assassination
+
 Learn about practices and methods of assassinations.
